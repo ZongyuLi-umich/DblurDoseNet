@@ -11,3 +11,8 @@ Zongyu Li, Jeffrey A Fessler, Justin K Mikell, Scott J Wilderman, Yuni K Dewaraj
 to appear in
 Medical Physics, 2021.
 (doi to be added).
+=======
+PyTorch implementation of DblurDoseNet.
+
+# Training
+`python3 train.py --batch [batch size] --lr [learning rate] --epochs [# of epochs]`
