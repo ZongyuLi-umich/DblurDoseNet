@@ -1,2 +1,2 @@
-# DblueDoseNet
-PyTorch implementation of DblueDoseNet
+# DblurDoseNet
+PyTorch implementation of DblurDoseNet
