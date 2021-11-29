@@ -2,7 +2,7 @@
 PyTorch implementation of DblurDoseNet.
 
 # Training
-`python3 train.py --[batch size] --[learning rate] --[# of epochs]`
+`python3 train.py --batch [batch size] --lr [learning rate] --epochs [# of epochs]`
 
 # Cite this work
 Zongyu Li, Jeffrey A. Fessler, Justin. K. Mikell, Scott J. Wilderman and
