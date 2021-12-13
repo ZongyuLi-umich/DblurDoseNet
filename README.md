@@ -10,7 +10,7 @@ by
 Zongyu Li, Jeffrey A Fessler, Justin K Mikell, Scott J Wilderman, Yuni K Dewaraja;
 to appear in
 Medical Physics, 2021.
-(doi to be added).
+DOI: 10.1002/mp.15397.
 
 # Training
 `python3 train.py --batch [batch size] --lr [learning rate] --epochs [# of epochs]`
