@@ -17,4 +17,7 @@ DOI: 10.1002/mp.15397.
 https://doi.org/10.7302/ykz6-cn05
 
 # Training
-`python3 train.py --batch [batch size] --lr [learning rate] --epochs [# of epochs]`
+`python3 train.py --batch [batch size] --lr [learning rate] --epochs [# of epochs]` <br>
+For example, with batch size set to 32, learning rate set to 0.002, epochs number set to 200, 
+the training command is <br>
+`python3 train.py --batch 32 --lr 0.002 --epochs 200`
