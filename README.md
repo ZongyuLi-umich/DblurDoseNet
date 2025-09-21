@@ -8,9 +8,8 @@ as described in the paper
 "DblurDoseNet: A deep residual learning network for voxel radionuclide dosimetry compensating for SPECT imaging resolution",
 by
 Zongyu Li, Jeffrey A Fessler, Justin K Mikell, Scott J Wilderman, Yuni K Dewaraja;
-to appear in
-Medical Physics, 2021.
-DOI: 10.1002/mp.15397.
+Medical Physics 49(2):1216-30, Feb. 2021.
+(https://doi.org/10.1002/mp.15397](DOI: 10.1002/mp.15397).
 
 # Dataset 
 
