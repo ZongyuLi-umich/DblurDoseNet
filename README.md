@@ -9,7 +9,7 @@ as described in the paper
 by
 Zongyu Li, Jeffrey A Fessler, Justin K Mikell, Scott J Wilderman, Yuni K Dewaraja;
 Medical Physics 49(2):1216-30, Feb. 2021.
-(https://doi.org/10.1002/mp.15397](DOI: 10.1002/mp.15397).
+[https://doi.org/10.1002/mp.15397](DOI: 10.1002/mp.15397).
 
 # Dataset 
 
